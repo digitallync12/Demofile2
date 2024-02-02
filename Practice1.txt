@@ -1,0 +1,5 @@
+Step1: open ' terrmial ' 
+Step2: type ' git status '
+Step3: type ' git add .'
+Step4: type ' git 'commit -m "v1.1.1" '
+Step5: type ' git push '
