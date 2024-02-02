@@ -1,0 +1,15 @@
+Enter your email:*********
+Enter your password:******
+Enter your username:******
+
+
+
+
+Step1:locin GitHub
+Step2:Go to profile 
+Step3:click Repositorys
+Step4:click "New" to make a new Repository
+Step5:type your repository name
+Step6:type your discribtion also
+Step7:click "README.md" option
+Step8:finally click to "Creat" option
